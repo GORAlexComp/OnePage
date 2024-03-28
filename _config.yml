@@ -1,4 +1,4 @@
-url: http://www.example.com
+url: https://goralexcomp.github.io/OnePage/
 
 languages: ["uk", "en"]
 exclude_from_localizations: ["assets", "CNAME"]
