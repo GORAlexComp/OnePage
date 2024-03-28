@@ -7,4 +7,4 @@ permalink: /pro-nas/
 permalink_en: /about-us/
 ---
 
-{% if about.md %}
+{% if about.md endif %}
