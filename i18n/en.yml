@@ -1,0 +1,11 @@
+site:
+  name: Example site
+  tagline: Something tags
+  description: Description fon search engine
+  keywords: keys, words, for. search, engine
+
+main:
+  welcomeSection:
+    anchor: Wellcome
+    heading: Wellcome to site
+    p1: What do you finding?

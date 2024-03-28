@@ -1,0 +1,11 @@
+site:
+  name: Приклад сайту
+  tagline: Якісь теги
+  description: Опис сайту для пошуковця
+  keywords: ключові, слова, для, пошуку
+
+main:
+  welcomeSection:
+    anchor: Вітаємо
+    heading: Вітаємо на сайті
+    p1: Що хотіли б бачити?
