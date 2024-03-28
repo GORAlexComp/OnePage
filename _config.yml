@@ -1,7 +1,6 @@
 url: https://goralexcomp.github.io/OnePage/
+baseurl: https://goralexcomp.github.io/OnePage/
 
-plugins:
-  - jekyll-multiple-languages-plugin
 languages: ["uk", "en"]
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: uk

@@ -3,7 +3,7 @@ layout: page
 title: pages.about
 
 namespace: about
-permalink: /pro-nas/
+permalink: /about-us/
 permalink_en: /about-us/
 ---
 
